@@ -1,0 +1,30 @@
+{
+  "name": "downloader-cli",
+  "version": "1.0.0",
+  "description": "A command-line tool that can download any file from the web. All you have to do is give it the URL!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RailRunner16/downloader-cli.git"
+  },
+  "keywords": [
+    "file-downloader",
+    "cli",
+    "downloader",
+    "file",
+    "downloader",
+    "tool"
+  ],
+  "author": "Railor-Music",
+  "license": "MIT",
+  "bin": {
+    "dl-file": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/RailRunner16/downloader-cli/issues"
+  },
+  "homepage": "https://github.com/RailRunner16/downloader-cli#readme"
+}
